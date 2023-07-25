@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Images
-![Alt text]([image link](https://github.com/ayaniegain/Todo-App/blob/todo-app/Capture.PNG))
+<img width="465" alt="Capture" src="https://github.com/ayaniegain/Todo-App/assets/59463533/2207222d-4b12-4d0d-881b-1edbf30c5b69">
+
 ## Available Scripts
 
 In the project directory, you can run:
