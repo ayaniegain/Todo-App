@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Images
+![Alt text]([image link](https://github.com/ayaniegain/Todo-App/blob/todo-app/Capture.PNG))
 ## Available Scripts
 
 In the project directory, you can run:
